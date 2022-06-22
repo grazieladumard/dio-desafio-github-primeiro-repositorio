@@ -1,0 +1,13 @@
+## Comandos básicos do GIT (após a criação do repositório até empurar para o github)
+
+git clone link extraído do github (do repositorio criado)
+
+git add . – adiciona a nova pasta no git e mudanças no git
+
+git push origin main – irá mandar a nova pasta do git (local) para o github (remoto)
+
+git status - saber o status do git,se algo novo foi adicionado 
+
+git commit -m (escrever a mensagem para comitar no git/github)
+
+git push origin main (empurar o que está na máquina local para o remoto no github)
